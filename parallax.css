@@ -1,0 +1,31 @@
+.panel-fg, .panel-mg, .panel-bg{
+	position: absolute;
+	top: 0;
+	left: 0; 
+}
+.panel-fg{
+	background-color: red;
+	opacity: .5;
+	width:60%;
+	height:60%;
+}
+.panel-mg{
+	background-color: green;
+	opacity: .3;
+	width:70%;
+	height:70%;
+
+}
+.panel-bg{
+	background-color: blue;
+	opacity: .2;
+	width:80%;
+	height:80%;
+}
+#parallax{
+        background-color: #48b3d6;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+}
